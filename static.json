@@ -1,7 +1,8 @@
 {
   "headers": {
     "/*": {
-      "X-Author": "k.v.zhernakov"    
+      "X-Author": "k.v.zhernakov",
+      "Access-Control-Allow-Origin": "*"
     }    
   }
 }
